@@ -1,0 +1,23 @@
+page1. contact information (how can you contact us)
+page2. before, after (photos max 2 people )
+
+horizontal kr dena hai photos
+
+
+home- video (pink white)
+
+gallery- photos tranformation realted people
+ (bg- lemon yellow, white gradient and black text )
+
+hair- hair styling (bg- light brown, text-light-suitable me)
+
+waxing- face mask photos (min photos 2 rectangle midle circular waxing, about these)
+(bg-baby pink and white, text black)
+
+survey- people review, box model read less, and read more...(bg-white text-black)
+rating with 2 girls and one boys
+
+contact- contact with us 5 hairtyling, phone number, email id, location.
+(black bg, white text)(bg-grey)( footer only)
+
+about- website about.(bg-lite levender, text-white)
